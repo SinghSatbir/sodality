@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView android:id="@id/vscroll1" android:padding="8dp" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:id="@id/linear4" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content"
+            <LinearLayout android:orientation="horizontal" android:id="@id/linear5" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x9601">
+                <ImageView android:id="@id/imageview2" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/hdjsk" android:scaleType="center" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/linear6" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x5001" android:layout_marginTop="10dp">
+                <TextView android:textSize="12sp" android:textStyle="bold" android:textColor="#000000" android:id="@id/textview1" android:padding="2dp" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x9601" android:text="The voice that tells you 'you can't' is usually lying. The one that says you can't do it all at once usually isn't." – Marsha Wright Success consists of going from failure to failure without loss of enthusiasm - Winston  churchill" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/linear7" android:padding="20dp" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x5a01" android:layout_marginTop="15dp">
+                <Button android:textSize="16sp" android:textStyle="bold" android:textColor="#ffffff" android:id="@id/button1" android:background="@drawable/blueback" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="5dp" android:text="INSPIRATIONAL BOOK" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/linear8" android:padding="20dp" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x5a01">
+                <Button android:textSize="16sp" android:textStyle="bold" android:textColor="#ffffff" android:id="@id/button2" android:background="@drawable/blueback" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="8dp" android:text="MOTIVATIONAL VIDEOS" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/linear9" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x5001">
+                <TextView android:textSize="12sp" android:textStyle="bold" android:textColor="#000000" android:id="@id/textview2" android:padding="5dp" android:layout_width="match_parent" android:layout_height="match_parent" android:text="Neetu Singh is a counsellor, who uses a different range of counselling approaches with the students in need of her soothing words.She works with individuals,groups to address and treat their mental and emotional disorders.  " />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

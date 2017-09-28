@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.my.newproject2" platformBuildVersionCode="25" platformBuildVersionName="7.1.1">
+    <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="22" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application android:theme="@style/AppTheme" android:label="Sodality" android:icon="@drawable/app_icon" android:name=".SketchApplication" android:allowBackup="true">
+        <activity android:theme="@style/NoActionBar" android:name=".MainActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".RcactActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".New1Activity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".DotactivityActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".AcadactActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".AcadActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".IeeeActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".DadcActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".DtgActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".PressActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".MeetActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".CafeActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".HelpdeskActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".SplashActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".InternetActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".Internet1Activity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".WeplaceActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".DownloadActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".RccataintActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".DownloadebActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".CalculusActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".ElecebookActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".SellActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".PivotActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".CogActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".YoutubeActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".NptelActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".WieActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".DceiActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".ResearchActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".CounsellorActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".BookActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".MvidActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".MtechActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".DotsActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".ProjectsActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".SettingsActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".ShareActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".UsaboutActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".ExitActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".CaffeteriaActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".AttendActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".HostelActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".BalanActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".ComplainsActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".SodalityActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".WieieeeActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".DceiwebActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".LectActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".IntranetActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".CoursesActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".WebmailActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".EcampusActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".FblActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".InstlActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".SploActivity" android:screenOrientation="portrait" android:configChanges="orientation|screenSize" />
+        <activity android:name=".DebugActivity" android:screenOrientation="portrait" />
+    </application>
+</manifest>

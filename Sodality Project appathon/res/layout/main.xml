@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent"
+    <LinearLayout android:orientation="horizontal" android:id="@id/linear1" android:background="@drawable/blueback" android:paddingLeft="90dp" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x3201">
+        <ImageView android:id="@id/imageview1" android:layout_width="UNKNOWN_DATA_0x1" android:layout_height="UNKNOWN_DATA_0x1" android:src="@drawable/default_image" android:scaleType="center" />
+        <TextView android:textSize="25sp" android:textStyle="bold" android:textColor="#ffffff" android:id="@id/textview2" android:padding="8dp" android:layout_width="UNKNOWN_DATA_0xbe01" android:layout_height="UNKNOWN_DATA_0x3201" android:text="DASHBOARD" />
+        <ImageView android:id="@id/imageview9" android:layout_width="UNKNOWN_DATA_0x2d01" android:layout_height="wrap_content" android:layout_marginLeft="30dp" android:src="@drawable/icon3" android:scaleType="fitXY" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/linear2" android:background="#fafafa" android:paddingLeft="8dp" android:paddingRight="8dp" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x3c01" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/linear3" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x7d01">
+        <ImageView android:id="@id/imageview4" android:layout_width="UNKNOWN_DATA_0x9601" android:layout_height="match_parent" android:layout_marginLeft="20dp" android:src="@drawable/acad" android:scaleType="fitXY" />
+        <ImageView android:id="@id/imageview3" android:layout_width="UNKNOWN_DATA_0x9601" android:layout_height="match_parent" android:layout_marginLeft="30dp" android:src="@drawable/club" android:scaleType="fitXY" />
+        <TextView android:textSize="12sp" android:textColor="#000000" android:id="@id/textview1" android:padding="10dp" android:layout_width="UNKNOWN_DATA_0x9601" android:layout_height="UNKNOWN_DATA_0x1401" android:layout_marginLeft="10dp" android:text="TextView" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/linear4" android:paddingLeft="8dp" android:paddingRight="8dp" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x1e01" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/linear5" android:paddingRight="8dp" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x7d01">
+        <ImageView android:id="@id/imageview2" android:layout_width="UNKNOWN_DATA_0x9601" android:layout_height="match_parent" android:layout_marginLeft="20dp" android:src="@drawable/rci" android:scaleType="fitXY" />
+        <ImageView android:id="@id/imageview8" android:layout_width="UNKNOWN_DATA_0x9601" android:layout_height="match_parent" android:layout_marginLeft="30dp" android:layout_marginRight="10dp" android:src="@drawable/dfj" android:scaleType="fitXY" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/linear6" android:paddingLeft="8dp" android:paddingRight="8dp" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x1e01" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/linear7" android:paddingLeft="8dp" android:paddingRight="8dp" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x7d01">
+        <ImageView android:id="@id/imageview6" android:layout_width="UNKNOWN_DATA_0x9601" android:layout_height="match_parent" android:layout_marginLeft="10dp" android:src="@drawable/caf" android:scaleType="fitXY" />
+        <ImageView android:id="@id/imageview7" android:layout_width="UNKNOWN_DATA_0x9601" android:layout_height="match_parent" android:layout_marginLeft="30dp" android:src="@drawable/help" android:scaleType="fitXY" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/linear8" android:padding="8dp" android:layout_width="match_parent" android:layout_height="match_parent" /> />

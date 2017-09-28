@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent"
+    <LinearLayout android:orientation="vertical" android:id="@id/linear1" android:padding="8dp" android:layout_width="match_parent" android:layout_height="match_parent"
+        <LinearLayout android:orientation="horizontal" android:id="@id/linear2" android:padding="8dp" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x3c01">
+            <TextView android:textSize="18sp" android:textStyle="bold" android:textColor="#000000" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@id/textview2" android:padding="8dp" android:layout_width="wrap_content" android:layout_height="UNKNOWN_DATA_0x2801" android:layout_marginLeft="130dp" android:text="DTG" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/linear3" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0xbe01" android:layout_marginTop="10dp">
+            <ImageView android:id="@id/imageview1" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/dtg" android:scaleType="fitXY" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/linear4" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0xa001" android:layout_marginTop="10dp">
+            <ImageView android:id="@id/imageview2" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/lkl" android:scaleType="fitXY" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/linear5" android:padding="8dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="5dp"
+            <LinearLayout android:orientation="horizontal" android:id="@id/linear7" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="1dp">
+                <TextView android:textSize="14sp" android:textStyle="bold" android:textColor="#000000" android:id="@id/textview1" android:padding="8dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Contact DTG:" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/linear8" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp">
+                <TextView android:textSize="12sp" android:textStyle="bold" android:textColor="#000000" android:id="@id/textview4" android:layout_width="UNKNOWN_DATA_0x9601" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:text="Vandhan-7405272305" />
+                <TextView android:textSize="12sp" android:textStyle="bold" android:textColor="#000000" android:id="@id/textview5" android:padding="8dp" android:layout_width="UNKNOWN_DATA_0x9601" android:layout_height="wrap_content" android:text="Pranjali-9426912731" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

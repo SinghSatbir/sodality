@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent"
+    <LinearLayout android:orientation="vertical" android:id="@id/linear1" android:padding="8dp" android:layout_width="match_parent" android:layout_height="match_parent"
+        <LinearLayout android:orientation="horizontal" android:id="@id/linear2" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x3c01" android:layout_margin="10dp">
+            <TextView android:textSize="18sp" android:textStyle="bold" android:textColor="#000000" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@id/textview1" android:layout_width="match_parent" android:layout_height="match_parent" android:text="CULTURAL COMMITTEE" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/linear3" android:background="@drawable/hhhh" android:padding="8dp" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x7d01" android:layout_margin="10dp" />
+        <LinearLayout android:orientation="horizontal" android:id="@id/linear4" android:padding="8dp" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x7d01" android:layout_margin="10dp">
+            <TextView android:textSize="12sp" android:textStyle="bold" android:textColor="#000000" android:id="@id/textview2" android:padding="8dp" android:layout_width="match_parent" android:layout_height="match_parent" android:text="Cultural Committee organises cultural events and competitions on campus.To oversee the forming of teams from DA-IICT for participation in other college fests and events.One woman member will be co-opted to the Committee in case none gets elected. " />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/linear8" android:padding="8dp" android:layout_width="match_parent" android:layout_height="match_parent"
+            <LinearLayout android:orientation="horizontal" android:id="@id/linear9" android:padding="8dp" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x3201">
+                <TextView android:textSize="14sp" android:textStyle="bold" android:textColor="#000000" android:id="@id/textview3" android:padding="8dp" android:layout_width="match_parent" android:layout_height="match_parent" android:text="Contact Cultural Committee:" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/linear10" android:padding="8dp" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x4101" android:layout_marginTop="15dp">
+                <TextView android:textSize="12sp" android:textStyle="bold" android:textColor="#000000" android:id="@id/textview4" android:padding="8dp" android:layout_width="UNKNOWN_DATA_0x9601" android:layout_height="wrap_content" android:text="ADITYA - 9537791815" />
+                <TextView android:textSize="12sp" android:textStyle="bold" android:textColor="#000000" android:id="@id/textview5" android:padding="8dp" android:layout_width="UNKNOWN_DATA_0x9601" android:layout_height="wrap_content" android:text="SRAVANI- 9909659174" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

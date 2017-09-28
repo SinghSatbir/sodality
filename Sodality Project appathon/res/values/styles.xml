@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme">
+    </style>
+    <style name="AppTheme">
+        <item>#008dcd</item>
+        <item>#008dcd</item>
+        <item>#008dcd</item>
+        <item>#0084c2</item>
+        <item>#008dcd</item>
+    </style>
+    <style name="NoActionBar">
+    </style>
+    <style name="NoActionBar">
+        <item>#008dcd</item>
+        <item>#008dcd</item>
+        <item>#008dcd</item>
+        <item>#0084c2</item>
+        <item>#008dcd</item>
+    </style>
+    <style name="FullScreen">
+    </style>
+    <style name="FullScreen">
+        <item>#008dcd</item>
+        <item>#008dcd</item>
+        <item>#008dcd</item>
+        <item>#0084c2</item>
+        <item>#008dcd</item>
+    </style>
+</resources>

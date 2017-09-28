@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent"
+    <LinearLayout android:orientation="horizontal" android:id="@id/linear1" android:padding="8dp" android:layout_width="UNKNOWN_DATA_0x1" android:layout_height="UNKNOWN_DATA_0x1">
+        <ImageView android:id="@id/imageview1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/default_image" android:scaleType="center" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/linear2" android:padding="8dp" android:layout_width="match_parent" android:layout_height="match_parent">
+        <TextView android:textSize="18sp" android:textStyle="bold" android:textColor="#000000" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@id/textview7" android:padding="8dp" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x3701" android:text="IEEE CLUB" />
+        <ImageView android:id="@id/imageview3" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0xc801" android:src="@drawable/ieeee" android:scaleType="fitXY" />
+        <LinearLayout android:orientation="vertical" android:id="@id/linear4" android:layout_width="match_parent" android:layout_height="match_parent"
+            <LinearLayout android:orientation="horizontal" android:id="@id/linear7" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <ImageView android:id="@id/imageview4" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/join" android:scaleType="fitXY" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/linear5" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x2d01">
+                <TextView android:textSize="14sp" android:textStyle="bold" android:textColor="#000000" android:id="@id/textview2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10dp" android:text="CONTACT IEEE:" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/linear6" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="14sp" android:textStyle="bold" android:textColor="#000000" android:id="@id/textview5" android:padding="8dp" android:layout_width="UNKNOWN_DATA_0x9601" android:layout_height="wrap_content" android:text="Harsh- 8866821682" />
+                <TextView android:textSize="14sp" android:textStyle="bold" android:textColor="#000000" android:id="@id/textview6" android:padding="8dp" android:layout_width="UNKNOWN_DATA_0x9601" android:layout_height="wrap_content" android:text="Akar - 9724164467" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

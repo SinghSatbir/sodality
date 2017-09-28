@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent"
+    <LinearLayout android:orientation="vertical" android:id="@id/linear1" android:background="@drawable/lllla" android:padding="8dp" android:layout_width="match_parent" android:layout_height="match_parent"
+        <LinearLayout android:orientation="horizontal" android:id="@id/linear2" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x7d01" android:layout_marginTop="50dp">
+            <ImageView android:id="@id/imageview2" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/nptel" android:scaleType="fitXY" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/linear3" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x7d01" android:layout_marginTop="20dp">
+            <ImageView android:id="@id/imageview3" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/lec" android:scaleType="fitXY" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/linear4" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x7d01" android:layout_marginTop="20dp">
+            <ImageView android:id="@id/imageview1" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/pla" android:scaleType="fitXY" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

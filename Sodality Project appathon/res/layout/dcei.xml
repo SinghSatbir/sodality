@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent"
+    <LinearLayout android:orientation="vertical" android:id="@id/linear1" android:padding="8dp" android:layout_width="match_parent" android:layout_height="match_parent"
+        <LinearLayout android:orientation="vertical" android:id="@id/linear2" android:padding="8dp" android:layout_width="match_parent" android:layout_height="match_parent"
+            <LinearLayout android:orientation="horizontal" android:id="@id/linear3" android:padding="8dp" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x15e01">
+                <TextView android:textSize="20sp" android:textStyle="bold" android:textColor="#000000" android:id="@id/textview1" android:padding="8dp" android:layout_width="match_parent" android:layout_height="match_parent" android:text="  The DA-IICT Centre for Entrepreneurship and Incubation (DCEI) aims to encourage students with an entrepreneurial bent of mind to come up with innovative ideas and channelise their efforts to give births to new ventures based on ICT products." />
+            </LinearLayout>
+            <Button android:textSize="18sp" android:textStyle="bold" android:textColor="#ffffff" android:id="@id/button1" android:background="@drawable/blueback" android:padding="8dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="25dp" android:text="More" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

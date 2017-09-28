@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent"
+    <LinearLayout android:orientation="vertical" android:id="@id/linear1" android:background="@drawable/kskzb" android:layout_width="match_parent" android:layout_height="match_parent"
+        <LinearLayout android:orientation="horizontal" android:id="@id/linear3" android:background="#eceff1" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x7d01" android:layout_marginLeft="10dp" android:layout_marginTop="125dp" android:layout_marginRight="10dp" android:layout_marginBottom="10dp">
+            <TextView android:textSize="30sp" android:textStyle="bold" android:textColor="#eeeeee" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@id/textview1" android:background="@drawable/blueback" android:padding="8dp" android:layout_width="UNKNOWN_DATA_0x9b01" android:layout_height="match_parent" android:text="LOST" />
+            <TextView android:textSize="30sp" android:textStyle="bold" android:textColor="#ffffff" android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:id="@id/textview4" android:background="@drawable/blueback" android:padding="8dp" android:layout_width="UNKNOWN_DATA_0xa501" android:layout_height="match_parent" android:layout_marginLeft="20dp" android:text="FOUND" />
+        </LinearLayout>
+        <LinearLayout android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:orientation="horizontal" android:id="@id/linear4" android:background="@drawable/blueback" android:padding="8dp" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x7d01" android:layout_margin="10dp">
+            <TextView android:textSize="30sp" android:textStyle="bold" android:textColor="#f5f5f5" android:id="@id/textview2" android:padding="8dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="EMERGENCY" />
+        </LinearLayout>
+        <LinearLayout android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end" android:orientation="horizontal" android:id="@id/linear5" android:background="@drawable/blueback" android:padding="8dp" android:layout_width="match_parent" android:layout_height="UNKNOWN_DATA_0x7d01" android:layout_margin="10dp">
+            <TextView android:textSize="30sp" android:textStyle="bold" android:textColor="#f5f5f5" android:id="@id/textview3" android:padding="8dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="COUNSELLOR" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
